@@ -4,8 +4,8 @@
 [详细简介](https://baike.baidu.com/item/淘宝网/112187?fromtitle=%E6%B7%98%E5%AE%9D&fromid=145661&fr=aladdin)
 
 ## 安装
-- 通过登录网页淘宝[上淘宝戳这里](https://www.taobao.com/)
-- 扫下方二维码下载手机淘宝app![手机淘宝](TB18W1cQFXXXXaWXXXXXXXXXXXX-160-160[1].png)
+- 通过登录**网页淘宝**[上淘宝戳这里](https://www.taobao.com/)
+- 扫下方二维码下载**手机淘宝app**![手机淘宝](TB18W1cQFXXXXaWXXXXXXXXXXXX-160-160[1].png)
 
 ## 新手指南
 - 注册一个淘宝账号
