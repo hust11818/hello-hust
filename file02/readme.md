@@ -6,6 +6,7 @@
 ## 安装
 - 通过登录**网页淘宝**[上淘宝戳这里](https://www.taobao.com/)
 - 扫下方二维码下载**手机淘宝app**
+
 ![手机淘宝](TB18W1cQFXXXXaWXXXXXXXXXXXX-160-160[1].png)
 
 ## 新手指南
